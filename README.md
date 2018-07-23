@@ -1,5 +1,7 @@
 # CSGROW
 
+![banner](https://i.imgur.com/Oey0qXv.jpg)
+
 A clean CSGO external cheat base with aimbot, BSPParsing (credits to https://github.com/ReactiioN1337/valve-bsp-parser), bunnyhop, triggerbot, aimassist, no flash and walkbot.
 
 # How to use
